@@ -1,0 +1,21 @@
+sku,name,category,price,description,features,in_stock,stock_qty
+P001,Nike Air Max,Shoes,5999,Comfortable running shoes,Lightweight;Cushioned,true,15
+P002,Adidas Runner,Shoes,3999,Sports running shoes,Breathable;Flexible,true,20
+P003,Puma Sneakers,Shoes,2999,Casual everyday sneakers,Stylish;Comfortable,true,12
+P004,Reebok Training,Shoes,4499,Gym training shoes,Durable;Grip,true,10
+P005,Campus Shoes,Shoes,1499,Budget casual shoes,Lightweight;Affordable,true,25
+P006,Leather Jacket,Jackets,4999,Black leather jacket,Premium;Stylish,true,8
+P007,Denim Jacket,Jackets,2499,Blue denim jacket,Casual;Durable,true,14
+P008,Winter Jacket,Jackets,3499,Warm winter jacket,Soft;Warm,true,11
+P009, bomber Jacket,Jackets,2999,Modern bomber jacket,Lightweight;Fashionable,true,9
+P010,Hooded Jacket,Jackets,1999,Casual hooded jacket,Comfortable;Warm,true,16
+P011,Travel Backpack,Bags,1799,Large travel backpack,Spacious;Water Resistant,true,18
+P012,Laptop Bag,Bags,1299,Laptop carrying bag,Padded;Lightweight,true,20
+P013,School Backpack,Bags,999,School backpack,Durable;Affordable,true,30
+P014,Office Bag,Bags,2199,Professional office bag,Stylish;Spacious,true,10
+P015,Gym Bag,Bags,899,Sports gym bag,Lightweight;Compact,true,22
+P016,Samsung Earbuds,Electronics,2999,Wireless bluetooth earbuds,Wireless;Noise Reduction,true,13
+P017,Smart Watch,Electronics,2499,Smart fitness watch,Heart Rate;Bluetooth,true,17
+P018,Bluetooth Speaker,Electronics,1999,Portable bluetooth speaker,Wireless;Portable,true,12
+P019,Power Bank,Electronics,1499,Fast charging power bank,Fast Charging;Portable,true,19
+P020,Wireless Mouse,Electronics,799,Wireless computer mouse,Ergonomic;Wireless,true,25
